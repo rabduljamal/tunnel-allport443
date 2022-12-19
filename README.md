@@ -28,7 +28,7 @@ apt update && apt upgrade && apt install wget && apt install curl && apt install
 ## kemudian masukan kode untuk install xray
 
 ```bash
-wget https://raw.githubusercontent.com/hidessh99/allport443/sae/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/rabduljamal/tunnel-allport443/sae/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 tunggu proses beberapa menit hingga proses installer berhasil
 
