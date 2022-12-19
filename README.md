@@ -1,6 +1,6 @@
 # Script ALL Tunnel 443
 
-##OS Didukung & Spek Minimal Auto Script Installer
+## OS Didukung & Spek Minimal Auto Script Installer
 kita perlu menggunakan sistem operasi OS Linux sebagai berikut ini:
 
  - Debian 10 (Rekomendasi)
